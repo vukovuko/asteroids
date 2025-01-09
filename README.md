@@ -1,4 +1,4 @@
-# Asteroid
+# Asteroids
 
 A simple Asteroids-style game built with Pygame.
 
